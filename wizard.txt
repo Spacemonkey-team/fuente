@@ -1,0 +1,17 @@
+﻿name="Spacemonkey-lite version 1.0 (14/2/20)"
+url="https://www.dropbox.com/s/0ggh4sr6lbwq5c9/Spacemonkeylite.zip?dl=0" 
+img="https://www.dropbox.com/s/mf7o06olkpiixav/icon.png?dl=0"
+fanart="https://www.dropbox.com/s/gy70qi7pk8wkg6z/fanart.jpg?dl=0"
+description="Spacemonkey-lite version 1.0"
+
+name="----- [COLOR red]LIMPIAR KODI PARA ACTUALIZAR[/COLOR] ------"
+url="http://bit.ly/2DXbHAf" 
+img="http://bit.ly/2EPeAo3"
+fanart="http://bit.ly/2DX4eBd"
+description="Usa el Freshtart para actualizar la Build."
+
+
+
+
+
+
